@@ -33,7 +33,7 @@ class GradientContainer extends StatelessWidget {
                   fontSize: 14
                 )
               ),
-              child: const Text('Start Quiz'))
+              child: const Text('Take Quiz'))
           ],
         ),
       ),
